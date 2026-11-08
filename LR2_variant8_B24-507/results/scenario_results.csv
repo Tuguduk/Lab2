@@ -1,0 +1,4 @@
+scenario,status,objective,delta_vs_base
+Базовый,optimal,2064.0,0.0
+Отказ дуги W1-S1,optimal,2174.0,110.0
+Рост спроса на 20%,infeasible,,

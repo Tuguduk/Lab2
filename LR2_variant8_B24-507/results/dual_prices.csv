@@ -1,0 +1,17 @@
+constraint,marginal
+supply_W1,-0.0
+supply_W2,-0.0
+supply_W3,-0.0
+supply_W4,-4.0
+demand_S1,9.0
+demand_S2,5.0
+demand_S3,12.0
+demand_S4,8.0
+demand_S5,10.0
+demand_S6,11.0
+route_capacity_W1_S1,-1.0
+route_capacity_W1_S6,-7.0
+route_capacity_W2_S2,-1.0
+route_capacity_W3_S3,-2.0
+route_capacity_W3_S5,-6.0
+route_capacity_W4_S3,-2.0

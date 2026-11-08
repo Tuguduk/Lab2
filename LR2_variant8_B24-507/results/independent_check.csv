@@ -1,0 +1,6 @@
+check,value,tolerance,passed
+warehouse_balance_max_abs,0.0,1e-07,True
+store_balance_max_abs,0.0,1e-07,True
+capacity_violation_max,0.0,1e-07,True
+nonnegativity_violation_max,0.0,1e-07,True
+objective_difference,0.0,1e-07,True

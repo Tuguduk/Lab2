@@ -1,0 +1,1 @@
+numpy==2.2.6\npandas==2.2.3\nscipy==1.15.3\nmatplotlib==3.10.3\nnetworkx==3.4.2\n

@@ -1,0 +1,8 @@
+2026-11-08 12:00:07,722 | INFO | SciPy version: 1.18.1
+2026-11-08 12:00:07,722 | INFO | Method: highs-ds; presolve=True
+2026-11-08 12:00:07,722 | INFO | Base status: 0; message: Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2026-11-08 12:00:07,734 | INFO | Failure arc W1-S1 status=0 objective=2174.0
+2026-11-08 12:00:07,734 | INFO | Demand +20% status=2 message=The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is Infeasible)
+2026-11-08 12:00:09,452 | INFO | Objective: 2064.000000
+2026-11-08 12:00:09,452 | INFO | Independent checks: True
+2026-11-08 12:00:09,452 | INFO | Greedy: {'feasible': True, 'objective': 2085.0, 'gap_percent': 1.017441860465107}

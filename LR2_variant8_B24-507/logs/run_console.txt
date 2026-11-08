@@ -1,0 +1,14 @@
+{
+  "status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "objective": 2064.0,
+  "max_independent_violation": 0.0,
+  "failure_arc": "W1-S1",
+  "failure_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "failure_objective": 2174.0,
+  "demand_plus_20_status": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is Infeasible)",
+  "greedy": {
+    "feasible": true,
+    "objective": 2085.0,
+    "gap_percent": 1.017441860465107
+  }
+}
